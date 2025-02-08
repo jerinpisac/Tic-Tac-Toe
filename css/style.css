@@ -46,6 +46,7 @@ button
 .col7,
 .col8,
 .col9{
+    font-size: 50px;
     outline: 2px solid black;
     margin: 10px;
     margin-bottom: 15px;
